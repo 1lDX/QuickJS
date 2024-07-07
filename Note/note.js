@@ -30,3 +30,9 @@ money2 =200; //เปลี่ยนแปลงค่าเดิมไม่�
 $money = 200;
 _tech = "teach me pls";
 console.log(_tech);
+
+
+//type conversion
+//string to number 
+x = parseint('1.2')
+x =  parsefloat('1.2')

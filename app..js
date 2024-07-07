@@ -13,8 +13,9 @@ console.log(name)
 console.log(checkname);
 
 
-console.log(typeof(money))
+console.log(typeof(money))  
 console.log(typeof(price))
 console.log(typeof(message))
 console.log(typeof(name))
 console.log(typeof(checkname))
+
